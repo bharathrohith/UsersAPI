@@ -1,1 +1,13 @@
 # UsersAPI
+
+To get started
+- Install and Open PostgreSQL through pg4Admin
+  - Create a userLogin with username : dev and password : dev.
+- Migrate your Models to the DB.
+  - Open VS Code or VS Community/Professional
+  - Open Nuget Package Manager Console and type these commands
+    - PM> enable-migrations
+    - PM> add-migration initial
+    - PM> update-database
+  - Run the app (Ctrl + F5)
+- Open Postman and start using the api   
