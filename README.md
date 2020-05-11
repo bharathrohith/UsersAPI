@@ -10,4 +10,5 @@ To get started
     - PM> add-migration initial
     - PM> update-database
   - Run the app (Ctrl + F5)
+- After the DB and table have been created, Run the Db script in the pg4Admin Querytool.
 - Open Postman and start using the api   
